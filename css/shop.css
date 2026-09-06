@@ -1,0 +1,13 @@
+#shop-page {
+    margin-top: 80px;
+}
+/* Pagination */
+.pagination a{
+ color: grey;
+
+}
+.pagination li a:hover{
+    color: #fff;
+    background-color: gray;
+}
+/* End pagination */
