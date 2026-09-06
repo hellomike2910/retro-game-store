@@ -1,0 +1,15 @@
+# Local files and credentials
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.db
+sessions/
+data/
+*.zip
+Website/
