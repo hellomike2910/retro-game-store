@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "pwa-chrome",
+      "request": "launch",
+      "name": "Retro Game Store – chạy website",
+      "url": "http://127.0.0.1:8080",
+      "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "Retro Game Store: start"
+    }
+  ]
+}
